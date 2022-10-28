@@ -1,0 +1,9 @@
+{
+	"name": "CIadffactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e9dbd20-8ce4-433a-8887-2cad291fcb3d",
+		"tenantId": "ed65c723-bc4c-4d99-a574-3febe5040720"
+	}
+}
